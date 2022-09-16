@@ -1,7 +1,7 @@
 # CENG 213 - Data Structures
 
-PA1 - Linked List
+Programming Assignment 1 - Linked List
 
-PA2 - Binary Search Tree
+Programming Assignment 2 - Binary Search Tree
 
-PA3 - Hash Table
+Programming Assignment 3 - Hash Table
